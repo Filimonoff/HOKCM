@@ -253,8 +253,3 @@ SetPeriodOfSales.TextBoxTo.Text = dateIdto
 
 SetPeriodOfSales.Show
 End Sub
-
-
-
-
-
